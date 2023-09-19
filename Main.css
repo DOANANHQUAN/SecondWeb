@@ -1,0 +1,114 @@
+.gioithieu{
+	font-size:30px;font-family:sans-serif;
+	
+}
+.nutsend1{
+	border-radius: 5px;
+	border: 1px solid black;
+	color: #FFFFFF;
+	background-color:green;
+}
+.dienten{
+	border-radius: 5px;
+	background-color: #868787
+	color: #FFFFFF;
+	padding-left: 3px;
+	border: 1px solid black;
+	
+}
+.quatdonem{
+	font-size: 18px;
+	font-family: sans-serif;
+	
+}
+.sothich{
+	font-size: 20px;
+	font-family: sans-serif
+	
+}
+.li1{
+	font-size: 15px;
+	font-family: sans-serif;
+	
+	
+}
+.1sosothichkhac{
+	font-size: 40px;
+	font-family: sans-serif;
+	
+}
+.gametuichoi{
+	font-size: 20px;
+	font-family: sans-serif;	
+}
+.li2{
+	font-size: 15px;
+	font-family: sans-serif;
+}
+
+.munhoijhoidi{
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.cauhoi{
+	border-radius: 5px;
+	padding-left: 3px;
+	border: 1px solid black;
+}
+.nutsend2{
+	border-radius: 5px;
+	border: 1px solid black;
+	color: #FFFFFF;
+	background-color:green;
+}
+.thongtinlienhe{
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.li3{
+	font-size: 15px;
+	font-family: sans-serif;
+	list-style: none;
+}
+.loichao{
+	font-size: 40px;
+	color: blue;
+	font-family:arial;
+}
+.luuy{
+	border-radius: 1px;
+	border: none;
+	font-size: 30px;
+	font-family: sans-serif;
+}
+.hinhanh{
+	text-align: right;
+	border-radius: 100px;
+}
+.hello{
+	font-size: 30px;
+	font-family: arial;
+	color: blue;
+}
+.e{
+	font-size: 27px;
+	font-family: sans-serif
+}
+.chon{
+	border-radius: 5px;
+}
+.facebook{
+	text-decoration: none;
+}
+.hinhanh2{
+	border-radius: 100px;
+}
+.facebook:hover{
+	color: red;
+	}
+
+.rep{
+	width: 1000;
+	height: 1000;
+	color: #FF0000;
+}	
